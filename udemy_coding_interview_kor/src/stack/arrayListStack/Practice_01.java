@@ -9,4 +9,5 @@ public class Practice_01 {
     public Practice_01(){
     //    list = new ArrayList();
     }
+    
 }
